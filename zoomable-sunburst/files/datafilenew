@@ -1,0 +1,728 @@
+{
+        name: "Library",
+        children: [{
+            name: "Bolinda",
+            children: [{
+                parentCompany: "Bolinda",
+                type: "Web Traffic",
+                name: "borrowbox.com",
+                value: 232100
+              },
+              {
+                parentCompany: "Bolinda",
+                type: "App Downloads",
+                name: "Borrow Box",
+                value: 55000
+              }
+            ]
+          },
+          {
+            name: "Cloudlibrary",
+            children: [{
+              parentCompany: "Cloudlibrary",
+              type: "Web Traffic",
+              name: "Cloudlibrary",
+              value: 40000
+            }, ]
+          },
+          {
+            name: "Midwest Tape",
+            children: [{
+                parentCompany: "Midwest Tape",
+                type: "Web Traffic",
+                name: "hoopladigital.com.au",
+                value: 19600
+              },
+              {
+                parentCompany: "Midwest Tape",
+                type: "Web Traffic",
+                name: "hoopladigital.com",
+                value: 3000000
+              },
+              {
+                parentCompany: "Midwest Tape",
+                type: "App Downloads",
+                name: "Hoopla",
+                value: 260000
+              }
+            ]
+          },
+          {
+            name: "Overdrive",
+            children: [{
+                parentCompany: "Overdrive",
+                type: "Web Traffic",
+                name: "libbyapp.com",
+                value: 5600000
+              },
+              {
+                parentCompany: "Overdrive",
+                type: "App Downloads",
+                name: "Libby",
+                value: 360000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        name: "DTC",
+        children: [{
+            name: "24Symbols",
+            children: [{
+                parentCompany: "24Symbols",
+                type: "Web Traffic",
+                name: "24symbols.com",
+                value: 30900
+              },
+              {
+                parentCompany: "24Symbols",
+                type: "App Downloads",
+                name: "24Symbols",
+                value: 5000
+              }
+            ]
+          },
+          {
+            name: "Alexander",
+            children: [{
+              parentCompany: "Alexander",
+              type: "Web Traffic",
+              name: "alxr.com",
+              value: 385
+            }]
+          },
+          {
+            name: "Audible",
+            children: [{
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.it",
+                value: 269300
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.in",
+                value: 286000
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.fr",
+                value: 376700
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.com.au",
+                value: 570700
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.co.jp",
+                value: 572200
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.ca",
+                value: 983700
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.de",
+                value: 1500000
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.co.uk",
+                value: 2300000
+              },
+              {
+                parentCompany: "Audible",
+                type: "Web Traffic",
+                name: "audible.com",
+                value: 11100000
+              },
+              {
+                parentCompany: "Audible",
+                type: "App Downloads",
+                name: "Audible",
+                value: 1810000
+              }
+            ]
+          },
+          {
+            name: "AudiobooksNow",
+            children: [{
+              parentCompany: "AudiobooksNow",
+              type: "Web Traffic",
+              name: "audiobooksnow.com",
+              value: 65200
+            }]
+          },
+          {
+            name: "Audiobrary",
+            children: [{
+              parentCompany: "Audiobrary",
+              type: "Web Traffic",
+              name: "audiobrary.com",
+              value: 1200
+            }]
+          },
+          {
+            name: "Beek",
+            children: [{
+              parentCompany: "Beek",
+              type: "Web Traffic",
+              name: "beek.io",
+              value: 7100
+            }]
+          },
+          {
+            name: "Bonnier",
+            children: [{
+                parentCompany: "Bonnier",
+                type: "Web Traffic",
+                name: "bookbeat.pl",
+                value: 1000
+              },
+              {
+                parentCompany: "Bonnier",
+                type: "Web Traffic",
+                name: "bookbeat.com",
+                value: 273000
+              },
+              {
+                parentCompany: "Bonnier",
+                type: "Web Traffic",
+                name: "bookbeat.fi",
+                value: 210
+              },
+              {
+                parentCompany: "Bonnier",
+                type: "Web Traffic",
+                ame: "bookbeat.se",
+                value: 317
+              },
+              {
+                parentCompany: "Bonnier",
+                type: "Web Traffic",
+                name: "bookbeat.co.uk",
+                value: 750
+              },
+              {
+                parentCompany: "Bonnier",
+                type: "App Downloads",
+                name: "Bookbeat",
+                value: 115000
+              }
+            ]
+          },
+          {
+            name: "Booklender",
+            children: [{
+              parentCompany: "Booklender",
+              type: "Web Traffic",
+              name: "booklender.com",
+              value: 4500
+            }]
+          },
+          {
+            name: "Bookmate",
+            children: [{
+                parentCompany: "Bookmate",
+                type: "Web Traffic",
+                name: "bookmate.com",
+                value: 131400
+              },
+              {
+                parentCompany: "Bookmate",
+                type: "App Downloads",
+                name: "Bookmate",
+                value: 45000
+              }
+            ]
+          },
+          {
+            name: "DigitalBook",
+            children: [{
+              parentCompany: "Digitalbook",
+              type: "Web Traffic",
+              name: "digitalbook.io",
+              value: 53500
+            }]
+          },
+          {
+            name: "DME Media",
+            children: [{
+                parentCompany: "DME Media",
+                type: "Web Traffic",
+                name: "audiobookstore.com",
+                value: 69900
+              },
+              {
+                parentCompany: "DME Media",
+                type: "App Downloads",
+                name: "audiobookstore.com",
+                value: 5000
+              }
+            ]
+          },
+          {
+            name: "Blackstone Audio",
+            children: [{
+                parentCompany: "Blackstone Audio",
+                type: "Web Traffic",
+                name: "downpour.com",
+                value: 20900
+              },
+              {
+                parentCompany: "Blackstone Audio",
+                type: "App Downloads",
+                name: "Downpour",
+                value: 5000
+              }
+            ]
+          },
+          {
+            name: "Google",
+            children: [{
+              parentCompany: "Google",
+              type: "App Downloads",
+              name: "Google Play Audiobooks",
+              value: 1120000
+            }]
+          },
+          {
+            name: "JP/Politikens Hus",
+            children: [{
+                parentCompany: "JP/Politikens Hus",
+                type: "Web Traffic",
+                name: "saxo.com",
+                value: 470700
+              },
+              {
+                parentCompany: "JP/Politikens Hus",
+                type: "App Downloads",
+                name: "Saxo",
+                value: 10000
+              }
+            ]
+          },
+          {
+            name: "Fundamentum",
+            children: [{
+              parentCompany: "Fundamentum",
+              type: "App Downloads",
+              name: "KukuFM",
+              value: 1140000
+            }, {
+              parentCompany: "Fundamentum",
+              type: "Web Traffic",
+              name: "kukufm.com",
+              value: 69600
+            }, {
+              parentCompany: "Fundamentum",
+              type: "Web Traffic",
+              name: "kukufmmodapk.in",
+              value: 63000
+            }]
+          },
+          {
+            name: "Learn Out Loud",
+            parentCompany: "Learn Out Loud",
+            children: [{
+              type: "Web Traffic",
+              name: "learnoutloud.com",
+              value: 75900
+            }]
+          },
+          {
+            name: "Librivox",
+            children: [{
+              parentCompany: "Librivox",
+              type: "Web Traffic",
+              name: "librivox.org",
+              value: 417700
+            }, {
+              parentCompany: "Librivox",
+              type: "App Downloads",
+              name: "Librivox",
+              value: 55000
+            }, ]
+          },
+          {
+            name: "Libro.fm",
+            children: [{
+              parentCompany: "Libro.fm",
+              type: "Web Traffic",
+              name: "libro.fm",
+              value: 263000
+            }, {
+              parentCompany: "Libro.fm",
+              type: "App Downloads",
+              name: "libro.fm",
+              value: 30000
+            }, ]
+          },
+          {
+            name: "Litres",
+            children: [{
+              parentCompany: "Litres",
+              type: "Web Traffic",
+              name: "litres.de",
+              value: 9700
+            }, {
+              parentCompany: "Litres",
+              type: "App Downloads",
+              name: "Litres",
+              value: 245000
+            }, {
+              parentCompany: "Litres",
+              type: "Web Traffic",
+              name: "litres.com",
+              value: 40900
+            }, {
+              parentCompany: "Litres",
+              type: "Web Traffic",
+              name: "litres.ru",
+              value: 7400000
+            }, {
+              parentCompany: "Litres",
+              type: "Web Traffic",
+              name: "mybook.ru",
+              value: 874400
+            }, {
+              parentCompany: "Litres",
+              type: "App Downloads",
+              name: "MyBook",
+              value: 100000
+            }, ]
+          },
+          {
+            name: "Lizhi",
+            children: [{
+              parentCompany: "Lizhi",
+              type: "Web Traffic",
+              name: "lizhi.fm",
+              value: 62000
+            }, {
+              parentCompany: "Lizhi",
+              type: "App Downloads",
+              name: "Lizhi",
+              value: 25000
+            }, ]
+          },
+          {
+            name: "Loyal Books",
+            children: [{
+              parentCompany: "Loyal Books",
+              type: "Web Traffic",
+              name: "loyalbooks.com",
+              value: 48700
+            }, ]
+          },
+          {
+            name: "Nextory",
+            children: [{
+              parentCompany: "Nextory",
+              type: "Web Traffic",
+              name: "nextory.se",
+              value: 5700
+            }, {
+              parentCompany: "Nextory",
+              type: "Web Traffic",
+              name: "nextory.com",
+              value: 156100
+            }, {
+              parentCompany: "Nextory",
+              type: "Web Traffic",
+              name: "nextory.movistar.es",
+              value: 214
+            }, {
+              parentCompany: "Nextory",
+              type: "Web Traffic",
+              name: "nextory.fi",
+              value: 344
+            }, {
+              parentCompany: "Nextory",
+              type: "App Downloads",
+              name: "Nextory",
+              value: 50000
+            }, ]
+          },
+          {
+            name: "Podimo",
+            children: [{
+              parentCompany: "Podimo",
+              type: "Web Traffic",
+              name: "podimo.com",
+              value: 492400
+            }, {
+              parentCompany: "Podimo",
+              type: "App Downloads",
+              name: "Podimo",
+              value: 105000
+            }, ]
+          },
+          {
+            name: "Pubmark",
+            children: [{
+              parentCompany: "Pubmark",
+              type: "Web Traffic",
+              name: "chirpbooks.com",
+              value: 446700
+            }, {
+              parentCompany: "Pubmark",
+              type: "Web Traffic",
+              name: "Chirp",
+              value: 25000
+            }, ]
+          },
+          {
+            name: "Rakuten",
+            children: [{
+              parentCompany: "Rakuten",
+              type: "Web Traffic",
+              name: "kobo.com",
+              value: 2600000
+            }, {
+              parentCompany: "Rakuten",
+              type: "App Downloads",
+              name: "Kobo",
+              value: 105000
+            }, ]
+          },
+          {
+            name: "RevenueCat",
+            children: [{
+              parentCompany: "RevenueCat",
+              type: "Web Traffic",
+              name: "dipseastories.com",
+              value: 39700
+            }, {
+              parentCompany: "RevenueCat",
+              type: "App Downloads",
+              name: "Dipsea",
+              value: 20000
+            }, ]
+          },
+          {
+            name: "Saga Egmont ",
+            children: [{
+              parentCompany: "Saga Egmont ",
+              type: "Web Traffic",
+              name: "sonolibro.com",
+              value: 4600
+            }, ]
+          },
+          {
+            name: "Scribd",
+            children: [{
+              parentCompany: "Scribd",
+              type: "Web Traffic",
+              name: "everand.com",
+              value: 1800000
+            }, {
+              parentCompany: "Scribd",
+              type: "App Downloads",
+              name: "Everand",
+              value: 140000
+            }, ]
+          },
+          {
+            name: "Scribl",
+            children: [{
+              parentCompany: "Scribl",
+              type: "Web Traffic",
+              name: "scribl.com",
+              value: 6100
+            }, {
+              parentCompany: "Scribl",
+              type: "App Downloads",
+              name: "Scribl",
+              value: 5000
+            }, ]
+          },
+          {
+            name: "Skeelo",
+            children: [{
+              parentCompany: "Skeelo",
+              type: "Web Traffic",
+              name: "Skeelo.com",
+              value: 38700
+            }, {
+              parentCompany: "Skeelo",
+              type: "App Downloads",
+              name: "Skeelo",
+              value: 165000
+            }, ]
+          },
+          {
+            name: "STARY",
+            children: [{
+              parentCompany: "STARY",
+              type: "Web Traffic",
+              name: "dreame.com",
+              value: 92400
+            }, {
+              parentCompany: "STARY",
+              type: "App Downloads",
+              name: "Dreame",
+              value: 395000
+            }, ]
+          },
+          {
+            name: "Storynory",
+            children: [{
+              parentCompany: "Storynory",
+              type: "Web Traffic",
+              name: "storynory.com",
+              value: 68300
+            }, ]
+          },
+          {
+            name: "Storytel",
+            children: [{
+              parentCompany: "Storytel",
+              type: "Web Traffic",
+              name: "audiolibros.com",
+              value: 7900
+            }, {
+              parentCompany: "Storytel",
+              type: "App Downloads",
+              name: "AudioLibros",
+              value: 5000
+            }, {
+              parentCompany: "Storytel",
+              type: "Web Traffic",
+              name: "audiobooks.co.uk",
+              value: 14200
+            }, {
+              parentCompany: "Storytel",
+              type: "Web Traffic",
+              name: "mofibo.com",
+              value: 49300
+            }, {
+              parentCompany: "Storytel",
+              type: "Web Traffic",
+              name: "audiobooks.com",
+              value: 340200
+            }, {
+              parentCompany: "Storytel",
+              type: "App Downloads",
+              name: "Audiobooks.com",
+              value: 110000
+            }, {
+              parentCompany: "Storytel",
+              type: "Web Traffic",
+              name: "storytel.com",
+              value: 691000
+            }, {
+              parentCompany: "Storytel",
+              type: "App Downloads",
+              name: "Storytel",
+              value: 470000
+            }, ]
+          },
+          {
+            name: "WRomance",
+            children: [{
+              parentCompany: "WRomance",
+              type: "Web Traffic",
+              name: "wromance.com",
+              value: 77
+            }, {
+              parentCompany: "WRomance",
+              name: "Tempt",
+              value: 25000
+            }, ]
+          },
+          {
+            name: "TriPlay",
+            children: [{
+              parentCompany: "TriPlay",
+              type: "Web Traffic",
+              name: "estories.com",
+              value: 2400
+            }, ]
+          },
+          {
+            name: "Wirtualna Polska Holding",
+            children: [{
+              parentCompany: "Wirtualna Polska Holding",
+              type: "Web Traffic",
+              name: "audioteka.it",
+              value: 13600
+            }, {
+              parentCompany: "Wirtualna Polska Holding",
+              type: "App Downloads",
+              name: "Audioteka",
+              value: 60000
+            }, {
+              parentCompany: "Wirtualna Polska Holding",
+              type: "Web Traffic",
+              name: "audioteka.com",
+              value: 396100
+            }, {
+              parentCompany: "Wirtualna Polska Holding",
+              type: "Web Traffic",
+              name: "audioteka.cz",
+              value: 371
+            }, {
+              parentCompany: "Wirtualna Polska Holding",
+              type: "Web Traffic",
+              name: "audioteka.pl",
+              value: 452
+            }, {
+              parentCompany: "Wirtualna Polska Holding",
+              type: "App Downloads",
+              name: "Audioteka Kids",
+              value: 5000
+            }, ]
+          },
+          {
+            name: "XigXag",
+            children: [{
+              parentCompany: "XigXag",
+              type: "Web Traffic",
+              name: "xigxag.co.uk",
+              value: 12900
+            }, {
+              parentCompany: "XigXag",
+              type: "App Downloads",
+              name: "XigXag",
+              value: 10000
+            }, ]
+          },
+          {
+            name: "Ubook",
+            children: [{
+              parentCompany: "Ubook",
+              type: "Web Traffic",
+              name: "Ubook.com",
+              value: 25600
+            }, {
+              parentCompany: "Ubook",
+              type: "App Downloads",
+              name: "Ubook",
+              value: 30000
+            }, ]
+          },
+          {
+            name: "Pushkin",
+            children: [{
+              parentCompany: "Ubook",
+              type: "Web Traffic",
+              name: "Puskin.fm",
+              value: 63000
+            }, ]
+          },
+        ]
+      }
+    ];
